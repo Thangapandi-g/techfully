@@ -1,0 +1,8 @@
+
+json_file = {
+    'name':["aparna k", "pankaj g", "sudhir p", "Geeku g"],
+    'degree': ["MBA", "BCA", "M.Tech", "MBA"],
+    'score':[90, 40, 80, 98],
+    'pre.employee':["accenture,tcs,cap","tcs,accenture,infosys","l&t,techmahindra,wipro","freshworks,Macappstudio,kovai.co"]
+    
+}
